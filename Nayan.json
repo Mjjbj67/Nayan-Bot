@@ -7,20 +7,20 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "༺✮•°||𝔚𝔥𝔦𝔱𝔢𝔉𝔬𝔵 ||°•✮༻",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100091289477923",
+    "100091289477923"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100091289477923",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100091289477923"], 
   "APPROVED": [],
   "disabledcmds": [],
-  "disabledevents": [],
+  "disabledevents": []
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": "dont cng author name and owner uid. otherwise bot not working",
   "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
